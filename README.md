@@ -18,6 +18,8 @@
 
 Сейчас идёт закрытое тестирование. Открытый выпуск в Google Play — **октябрь 2026**.
 
+🎬 Видео (1 минута): https://www.youtube.com/watch?v=rmOFk5zMAcI
+
 Сайт: https://sanekt17.github.io/obereg/ · Политика конфиденциальности: https://sanekt17.github.io/obereg/privacy.html · Почта: obereg.support@gmail.com
 
 ---
@@ -36,6 +38,8 @@
 
 כרגע האפליקציה בבדיקה סגורה. השקה פתוחה ב-Google Play — **אוקטובר 2026**.
 
+🎬 סרטון (דקה אחת): https://www.youtube.com/watch?v=R6T6J3DqRSA
+
 אתר: https://sanekt17.github.io/obereg/ · מדיניות פרטיות: https://sanekt17.github.io/obereg/privacy.html · מייל: obereg.support@gmail.com
 
 </div>
@@ -53,5 +57,7 @@
 - All warnings are free forever. Family features (a trusted person in the warning, a family safe word against voice cloning) are free for 30 days, then a one-time payment.
 
 The app is in closed testing. Public release on Google Play — **October 2026**.
+
+🎬 Video (1 minute): https://www.youtube.com/watch?v=GqMTgW_YtsY
 
 Website: https://sanekt17.github.io/obereg/ · Privacy policy: https://sanekt17.github.io/obereg/privacy.html · Email: obereg.support@gmail.com
